@@ -1,0 +1,7 @@
+supplier_id,supplier_name,product_id,lead_time_days,min_order_qty
+S001,DairyFresh Co,P001,2,20
+S002,BakeryDirect,P002,1,15
+S003,FarmEggs Ltd,P003,3,50
+S004,YogurtPlus,P004,2,25
+S005,CitrusBev,P005,2,30
+S006,CheeseWorld,P006,3,20

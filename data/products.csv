@@ -1,0 +1,7 @@
+product_id,name,category,current_stock,days_to_expiry,unit_price
+P001,Milk (1L),Dairy,45,5,3.50
+P002,Bread,Bakery,30,2,2.00
+P003,Eggs (12),Dairy,120,14,4.50
+P004,Yogurt,Dairy,25,4,2.75
+P005,Orange Juice,Beverages,60,10,3.00
+P006,Cheese,Dairy,40,7,5.50
